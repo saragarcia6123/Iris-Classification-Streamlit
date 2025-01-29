@@ -1,0 +1,11 @@
+{
+  "KNN": {
+    "path": "models/knn.pkl"
+  },
+  "AdaBoost": {
+      "path": "models/ada_boost.pkl"
+  },
+  "RandomForest": {
+      "path": "models/random_forest.pkl"
+  }
+}
